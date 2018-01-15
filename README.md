@@ -21,4 +21,8 @@ First, X-ray microCT images are collected, resulting in 32-bit images of the ste
 
 <br> ![Alt text](imgs/Fig_3.jpg?raw=true "Fig. 3") <br>
 
+Here's what the final predictions look like for all the RAPs:
+
+<br> ![Alt text](imgs/Fig_6.jpg?raw=true "Fig. 6") <br>
+
 #### The image datasets used in *Earles et al. (accepted)* are several Gb, so we aren't hosting them on GitHub. Please send us a message if you would like a direct link to download them.
