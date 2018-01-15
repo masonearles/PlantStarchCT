@@ -7,7 +7,7 @@ Earles, J.M.*, Knipfer, T.K.*, Tixier, A., Orozco, J., Reyes, C., Zwieniecki, M.
 
 #### Initial observations of depleted regions in stem parenchymal tissue of grapevine plants
 
-We began this project after observing apparently depleted regions in the stems of parenchymal tissue of grapevine plants. Here's an image of what we saw that piqued our curiosity.
+We began this project after observing apparently depleted regions in the stems of parenchymal tissue of grapevine plants. Here's an panels of images demonstrating what we saw that piqued our curiosity.
 
 ![Alt text](imgs/Fig_1.jpg?raw=true "Fig. 1")
 
