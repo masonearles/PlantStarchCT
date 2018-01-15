@@ -7,13 +7,13 @@ Earles, J.M.*, Knipfer, T.K.*, Tixier, A., Orozco, J., Reyes, C., Zwieniecki, M.
 
 #### Initial observations of depleted regions in stem parenchymal tissue of grapevine plants
 
-We began this project after observing apparently depleted regions in the stems of parenchymal tissue of grapevine plants. Here's an panels of images demonstrating what we saw that piqued our curiosity.
+We began this project after observing apparently depleted regions in the stems of parenchymal tissue of grapevine plants. Here's a panel of images demonstrating what we saw that piqued our curiosity.
 
 ![Alt text](imgs/Fig_1.jpg?raw=true "Fig. 1")
 
 #### Machine learning framework for in-vivo quantification of starch in plant stems
 
-We suspected that these depleted regions correpsond with starch depletion in ray and axial parenchyma (RAP) cells. If so, this would be very exciting, as no techniques currently exist for quantifying and spatially mapping plant starch reserves *in-vivo*. <br> We developed the following machine learning framework to help us quantify the presence/absence of these full versus empty RAP regions. Here's what we came up with:
+We suspected that these depleted regions correpsond with starch depletion in ray and axial parenchyma (RAP) cells. If so, this would be very exciting, as no techniques currently exist for quantifying and spatially mapping plant starch reserves *in-vivo*. <br> <br> To help us quantify the presence/absence of these full versus empty RAP regionz, we developed the following machine learning framework:
 
 ![Alt text](imgs/Fig_4.png?raw=true "Fig. 4")
 
