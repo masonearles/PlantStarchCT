@@ -11,7 +11,7 @@ We began this project after observing apparently depleted regions in the stems o
 
 #### Machine learning framework for in-vivo quantification of starch in plant stems
 
-We suspected that these depleted regions correpsond with starch depletion in ray and axial parenchyma (RAP) cells. If so, this would be very exciting, as no techniques currently exist for quantifying and spatially mapping plant starch reserves *in-vivo*. <br> <br> To help us quantify the presence/absence of these full versus empty RAP regions, we developed the following machine learning framework:
+We suspected that these depleted regions correspond with starch depletion in ray and axial parenchyma (RAP) cells. If so, this would be very exciting, as no techniques currently exist for quantifying and spatially mapping plant starch reserves *in-vivo*. <br> <br> To help us quantify the presence/absence of these full versus empty RAP regions, we developed the following machine learning framework:
 
 <br><a href="url"><img src="https://github.com/masonearles/PlantStarchCT/blob/master/imgs/Fig_4.png" width = 600></a></br>
 
