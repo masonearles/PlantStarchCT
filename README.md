@@ -21,7 +21,7 @@ First, X-ray microCT images are collected, resulting in 32-bit images of the ste
 
 Here's what the final predictions look like for all the RAPs: <br>
 
-<br> ![Alt text](imgs/Fig_6.jpg?raw=true "Fig. 6") <br>
+<br> ![Alt text](imgs/Fig_6.jpg?raw=true "Fig. 6") <br><br>
 
 These predictions correspond with enzymatically measured starch concentration.
 
