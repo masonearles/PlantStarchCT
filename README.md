@@ -25,7 +25,7 @@ Here's what the final predictions look like for all the RAPs: <br>
 
 These predictions correspond with enzymatically measured starch concentration.
 
-<br><a href="url"><img src="https://github.com/masonearles/PlantStarchCT/blob/master/imgs/Fig_7.jpg" width = 600></a></br>
+<br><a href="url"><img src="https://github.com/masonearles/PlantStarchCT/blob/master/imgs/Fig_7.jpg" width = 350></a></br>
 
 #### This is the GitHub repository associated with the paper: Earles, J.M., Knipfer, T.K., Tixier, A., Orozco, J., Reyes, C., Zwieniecki, M.A., Brodersen, C.R., and McElrone, A.J. (accepted). In-vivo quantification of starch reserves in plants using X-ray microCT imaging and machine learning. *Authors contributed equally
 
