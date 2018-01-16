@@ -23,11 +23,11 @@ Here's what the final predictions look like for all the RAP cells: <br>
 
 <br><a href="url"><img src="https://github.com/masonearles/PlantStarchCT/blob/master/imgs/Fig_6.jpg" width = 600></a></br>
 
-These predictions correlate well with enzymatically measured starch concentration (R^2 = 0.95). Job well done!
+These predictions correlate well with enzymatically measured starch concentration (R^2 = 0.95).
 
 <br><a href="url"><img src="https://github.com/masonearles/PlantStarchCT/blob/master/imgs/Fig_7.jpg" width = 350></a></br>
 
-### This is the GitHub repository associated with the paper: 
+### Relevant publication: 
 Earles, J.M., Knipfer, T.K., Tixier, A., Orozco, J., Reyes, C., Zwieniecki, M.A., Brodersen, C.R., and McElrone, A.J. (accepted). In-vivo quantification of starch reserves in plants using X-ray microCT imaging and machine learning. *Authors contributed equally
 
 Note: The image datasets used in *Earles et al. (accepted)* are several Gb, so we aren't hosting them on GitHub. Please send us a message if you would like a direct link to download them.
