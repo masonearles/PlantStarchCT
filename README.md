@@ -1,9 +1,7 @@
 # PlantStarchCT
 ### In-vivo quantification of starch reserves in plant stems using a Random Forest machine learning algorithm
 
-This is the GitHub repository associated with the paper:
-
-Earles, J.M.*, Knipfer, T.K.*, Tixier, A., Orozco, J., Reyes, C., Zwieniecki, M.A., Brodersen, C.R., and McElrone, A.J. (accepted). In-vivo quantification of starch reserves in plants using X-ray microCT imaging and machine learning. *Authors contributed equally
+Here, we demonstrate how X-ray micro-computed tomography and a machine learning algorithm can be coupled to quantify plant starch content in vivo, repeatedly and non-destructively over time in three grapevine species.
 
 #### Initial observations of depleted regions in stem parenchymal tissue of grapevine plants
 
@@ -24,5 +22,11 @@ First, X-ray microCT images are collected, resulting in 32-bit images of the ste
 Here's what the final predictions look like for all the RAPs: <br>
 
 <br> ![Alt text](imgs/Fig_6.jpg?raw=true "Fig. 6") <br>
+
+These predictions correspond with enzymatically measured starch concentration.
+
+<br> ![Alt text](imgs/Fig_7.jpg?raw=true "Fig. 7") <br>
+
+#### This is the GitHub repository associated with the paper: Earles, J.M., Knipfer, T.K., Tixier, A., Orozco, J., Reyes, C., Zwieniecki, M.A., Brodersen, C.R., and McElrone, A.J. (accepted). In-vivo quantification of starch reserves in plants using X-ray microCT imaging and machine learning. *Authors contributed equally
 
 #### Note: The image datasets used in *Earles et al. (accepted)* are several Gb, so we aren't hosting them on GitHub. Please send us a message if you would like a direct link to download them.
