@@ -8,7 +8,6 @@ Here, we demonstrate how X-ray micro-computed tomography and a machine learning 
 We began this project after observing apparently depleted regions in the stems of parenchymal tissue of grapevine plants. Here's a panel of images demonstrating what we saw that piqued our curiosity.
 
 <br><a href="url"><img src="https://github.com/masonearles/PlantStarchCT/blob/master/readme/Fig_1.jpg" width = 600></a></br>
-<br> ![Alt text](imgs/Fig_1.jpg?raw=true "Fig. 1") <br>
 
 #### Machine learning framework for in-vivo quantification of starch in plant stems
 
