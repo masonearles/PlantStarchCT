@@ -1,7 +1,7 @@
 # PlantStarchCT
-### In-vivo quantification of starch reserves in plant stems using a Random Forest machine learning algorithm
+### In-vivo quantification of starch reserves in plant stems using a machine learning algorithm
 
-Here, we demonstrate how X-ray micro-computed tomography and a machine learning algorithm can be coupled to quantify plant starch content in vivo, repeatedly and non-destructively over time in three grapevine species.
+Here, we demonstrate how X-ray micro-computed tomography and a random forest machine learning algorithm can be coupled to quantify plant starch content in vivo, repeatedly and non-destructively over time in three grapevine species.
 
 #### Initial observations of depleted regions in stem parenchymal tissue of grapevine plants
 
